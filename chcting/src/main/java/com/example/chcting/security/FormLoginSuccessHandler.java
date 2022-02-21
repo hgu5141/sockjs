@@ -1,6 +1,6 @@
-package com.example.gongguri.security;
+package com.example.chcting.security;
 
-import com.example.gongguri.security.jwt.JwtTokenUtils;
+import com.example.chcting.security.jwt.JwtTokenUtils;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.web.authentication.SavedRequestAwareAuthenticationSuccessHandler;
 

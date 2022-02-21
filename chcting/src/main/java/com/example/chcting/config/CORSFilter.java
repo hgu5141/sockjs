@@ -1,4 +1,4 @@
-package com.example.slack.config;
+package com.example.chcting.config;
 
 import javax.servlet.*;
 import javax.servlet.http.HttpServletRequest;

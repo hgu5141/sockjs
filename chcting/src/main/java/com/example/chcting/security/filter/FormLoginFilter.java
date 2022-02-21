@@ -1,4 +1,4 @@
-package com.example.gongguri.security.filter;
+package com.example.chcting.security.filter;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonNode;

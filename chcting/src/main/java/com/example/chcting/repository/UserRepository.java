@@ -1,6 +1,6 @@
-package com.example.gongguri.repository;
+package com.example.chcting.repository;
 
-import com.example.gongguri.model.User;
+import com.example.chcting.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

@@ -1,8 +1,8 @@
-package com.example.gongguri.security.jwt;
+package com.example.chcting.security.jwt;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
-import com.example.gongguri.security.UserDetailsImpl;
+import com.example.chcting.security.UserDetailsImpl;
 
 import java.util.Date;
 import java.util.HashMap;

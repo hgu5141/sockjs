@@ -1,4 +1,4 @@
-package com.example.gongguri.controller;
+package com.example.chcting.controller;
 
 import lombok.Getter;
 import lombok.Setter;

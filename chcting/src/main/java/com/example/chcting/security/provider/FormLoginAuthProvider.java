@@ -1,6 +1,6 @@
-package com.example.gongguri.security.provider;
+package com.example.chcting.security.provider;
 
-import com.example.gongguri.security.UserDetailsImpl;
+import com.example.chcting.security.UserDetailsImpl;
 import org.springframework.security.authentication.AuthenticationProvider;
 import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

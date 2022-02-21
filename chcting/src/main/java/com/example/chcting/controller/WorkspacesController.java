@@ -1,13 +1,13 @@
-package com.example.slack.controller;
+package com.example.chcting.controller;
 
-import com.example.slack.dto.WorkspacesRequestDto;
-import com.example.slack.dto.WorkspacesResponseDto;
-import com.example.slack.model.User;
-import com.example.slack.model.Workspaces;
-import com.example.slack.repository.UserRepository;
-import com.example.slack.repository.WorkspacesRepository;
-import com.example.slack.security.UserDetailsImpl;
-import com.example.slack.service.WorkspacesService;
+import com.example.chcting.dto.WorkspacesRequestDto;
+import com.example.chcting.dto.WorkspacesResponseDto;
+import com.example.chcting.model.User;
+import com.example.chcting.model.Workspaces;
+import com.example.chcting.repository.UserRepository;
+import com.example.chcting.repository.WorkspacesRepository;
+import com.example.chcting.security.UserDetailsImpl;
+import com.example.chcting.service.WorkspacesService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package com.example.gongguri.security.jwt;
+package com.example.chcting.security.jwt;
 
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 

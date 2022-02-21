@@ -1,4 +1,4 @@
-package com.example.gongguri.security.jwt;
+package com.example.chcting.security.jwt;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 import java.util.Date;
 import java.util.Optional;
 
-import static com.example.gongguri.security.jwt.JwtTokenUtils.*;
+import static com.example.chcting.security.jwt.JwtTokenUtils.*;
 
 @Component
 public class JwtDecoder {

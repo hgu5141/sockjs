@@ -1,11 +1,11 @@
-package com.example.gongguri.security.provider;
+package com.example.chcting.security.provider;
 
 
-import com.example.gongguri.model.User;
-import com.example.gongguri.repository.UserRepository;
-import com.example.gongguri.security.UserDetailsImpl;
-import com.example.gongguri.security.jwt.JwtDecoder;
-import com.example.gongguri.security.jwt.JwtPreProcessingToken;
+import com.example.chcting.model.User;
+import com.example.chcting.repository.UserRepository;
+import com.example.chcting.security.UserDetailsImpl;
+import com.example.chcting.security.jwt.JwtDecoder;
+import com.example.chcting.security.jwt.JwtPreProcessingToken;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationProvider;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

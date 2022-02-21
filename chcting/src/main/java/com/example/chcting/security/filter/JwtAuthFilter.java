@@ -1,8 +1,8 @@
-package com.example.gongguri.security.filter;
+package com.example.chcting.security.filter;
 
 
-import com.example.gongguri.security.jwt.HeaderTokenExtractor;
-import com.example.gongguri.security.jwt.JwtPreProcessingToken;
+import com.example.chcting.security.jwt.HeaderTokenExtractor;
+import com.example.chcting.security.jwt.JwtPreProcessingToken;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.core.context.SecurityContext;

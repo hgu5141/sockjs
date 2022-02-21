@@ -1,4 +1,4 @@
-package com.example.gongguri.security;
+package com.example.chcting.security;
 
 import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 import org.springframework.security.web.util.matcher.OrRequestMatcher;

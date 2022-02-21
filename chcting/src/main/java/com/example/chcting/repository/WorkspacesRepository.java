@@ -1,7 +1,7 @@
-package com.example.slack.repository;
+package com.example.chcting.repository;
 
-import com.example.slack.model.User;
-import com.example.slack.model.Workspaces;
+import com.example.chcting.model.User;
+import com.example.chcting.model.Workspaces;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

@@ -1,8 +1,8 @@
-package com.example.gongguri.security;
+package com.example.chcting.security;
 
 
 
-import com.example.gongguri.model.User;
+import com.example.chcting.model.User;
 import lombok.Getter;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

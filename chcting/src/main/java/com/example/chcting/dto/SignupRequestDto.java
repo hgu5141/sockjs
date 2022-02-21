@@ -1,4 +1,4 @@
-package com.example.gongguri.dto;
+package com.example.chcting.dto;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

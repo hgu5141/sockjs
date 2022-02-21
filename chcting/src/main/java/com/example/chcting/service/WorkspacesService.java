@@ -1,11 +1,11 @@
-package com.example.slack.service;
+package com.example.chcting.service;
 
 
-import com.example.slack.dto.WorkspacesRequestDto;
-import com.example.slack.model.User;
-import com.example.slack.model.Workspaces;
-import com.example.slack.repository.WorkspacesRepository;
-import com.example.slack.security.UserDetailsImpl;
+import com.example.chcting.dto.WorkspacesRequestDto;
+import com.example.chcting.model.User;
+import com.example.chcting.model.Workspaces;
+import com.example.chcting.repository.WorkspacesRepository;
+import com.example.chcting.security.UserDetailsImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
